@@ -8,3 +8,10 @@ position in the tuple
 """
 
 people=("John","Tyler","Dash","Kieran","Jayson","Tomoki","Minji","Dawson","Hewitt","Josh","Anson","Cole")
+
+num = int(input("Please enter a number that is less than 10: "))
+picked = people[num]
+
+print(picked)
+
+#done
