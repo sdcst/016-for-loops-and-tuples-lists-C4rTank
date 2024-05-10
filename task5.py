@@ -13,4 +13,8 @@ nums = (5,-2,12,-8,14,16)
 for i in nums:
     if i > 0:
         sqrt = math.sqrt(i)
-        print(i ,sqrt)
+        rounded = round(sqrt,2)
+        print(i ,rounded)
+
+
+#done
